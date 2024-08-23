@@ -1,7 +1,7 @@
 allow_embedding: true
 package_name: bubble_sort
 name: bubble sort
-startup_form: Form1
+startup_form: null
 renamed: true
 runtime_options:
   version: 2
@@ -14,3 +14,4 @@ services:
   client_config: {}
   server_config: {}
 metadata: {title: code sap xep don gian, logo_img: 'https://th.bing.com/th/id/OIP.IE-ZggnvOgg9FWHsedUbMAHaFj?w=237&h=180&c=7&r=0&o=5&pid=1.7'}
+startup: {type: form, module: bubble_sort}

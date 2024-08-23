@@ -1,5 +1,6 @@
+from ._anvil_designer import bubble_sortTemplate
 def bubble_sort(arr):  
-  # Outer loop to iterate through the list n times
+  # Outer loop to iterate jthrough the list n times
   for n in range(len(arr) - 1, 0, -1):    
     swapped = False    
     # Inner loop to compare adjacent elements
