@@ -1,6 +1,6 @@
-allow_embedding: false
-package_name: M3_App_2
-name: M3 App 2
+allow_embedding: true
+package_name: bubble_sort
+name: bubble sort
 startup_form: Form1
 renamed: true
 runtime_options:
@@ -13,3 +13,4 @@ services:
 - source: /runtime/services/tables.yml
   client_config: {}
   server_config: {}
+metadata: {title: code sap xep don gian, logo_img: 'https://th.bing.com/th/id/OIP.IE-ZggnvOgg9FWHsedUbMAHaFj?w=237&h=180&c=7&r=0&o=5&pid=1.7'}
