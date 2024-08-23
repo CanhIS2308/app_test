@@ -7,8 +7,17 @@ components:
   properties: {}
   name: navbar_links
   layout_properties: {slot: nav-right}
+  components: []
 - type: ColumnPanel
   properties: {col_widths: '{}'}
   name: content_panel
   layout_properties: {slot: left-nav}
   components: []
+- name: rich_text_1
+  properties: {content: ao hoa dien toan dam may}
+  type: RichText
+  layout_properties: {slot: default}
+  components:
+  - name: image_1
+    properties: {}
+    type: Image

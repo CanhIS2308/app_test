@@ -2,7 +2,8 @@ unique_ids:
   forms:
     bubble_sort: TKYE7VBPTL3FWA5NJLKBXH2BT26EZCVF
   modules: {}
-  server_modules: {}
+  server_modules:
+    ServerModule1: '172438246139299263899861.75722'
   assets:
     standard-page.html: Q26BVEMZELWE6NPUE6OSPIJYPWV4A4SX
     theme.css: MDN3HGVPY2P4NRP3K5KW3INGU3MZWN5C
